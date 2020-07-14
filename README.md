@@ -1,7 +1,9 @@
 
-# Hi, Im Kenny,
+
 
 <div align="center">
+  
+  # Hi, I'm Kenny
   
 <samp>I am a react.js and full-stack developer looking to start my career. I love working with hooks, automating the little things, and mountain biking.</samp>
 </div>

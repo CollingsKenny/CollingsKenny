@@ -25,8 +25,8 @@
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=collingskenny.visitor-badge)
 
-https://visitor-badge.glitch.me/badge?page_id=collingskenny.visitor-badge
 <!--
 **CollingsKenny/CollingsKenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

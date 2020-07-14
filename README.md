@@ -1,4 +1,13 @@
-### Hi there 👋
+
+I am a react.js and full-stack developer looking to start my career. I love working with hooks, automating the little things, and mountain biking.
+
+- 🔭 I’m currently working on a project using the spotify api.
+- 🌱 I’m currently learning static site generation.
+- 🤔 I’m looking for help with graphql and typescript.
+- ⚡ Fun fact: Genghis Khan belived yogurt made his warriors stronger.
+
+[See my Resume!](https://collingskenny.github.io/resume/)
+
 
 <!--
 **CollingsKenny/CollingsKenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

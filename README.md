@@ -5,7 +5,7 @@
   
   # Hi, I'm Kenny
   
-<samp>I am a react.js and full-stack developer looking to start my career. I love working with hooks, automating the little things, and mountain biking.</samp>
+<samp>I am a react.js and full-stack developer looking to start my career. I emjoy working with React, creating things, and mountain biking.</samp>
 </div>
 
 - 🎵 I’m currently working on a project using the spotify api.

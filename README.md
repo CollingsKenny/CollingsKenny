@@ -5,12 +5,14 @@
 <samp>I am a react.js and full-stack developer looking to start my career. I emjoy working with React, creating things, and mountain biking.</samp>
 </div>
 
+[📄 See my resume!](https://collingskenny.github.io/resume/)
+
 - 🎵 I’m currently working on a project using the spotify api.
 - 🔨 I’m currently learning static site generation.
 - 💹 I’m looking for help with graphql and typescript.
 - 🐎 Fun fact: Genghis Khan belived yogurt made his warriors stronger.
 
-[📄 See my resume!](https://collingskenny.github.io/resume/)
+
 
 
 #### 🛸 Connect

@@ -2,7 +2,7 @@
   
   # Hi, I'm Kenny
   
-<samp>I am a react.js and full-stack developer looking to start my career. I emjoy working with React, creating things, and mountain biking.</samp>
+<samp>I am a JavaScript and full-stack developer looking to start my career. I emjoy working with React, creating things, and mountain biking.</samp>
 </div>
 
 [📄 See my resume!](https://collingskenny.github.io/resume/)
@@ -13,9 +13,9 @@
 - 🐎 Fun fact: Genghis Khan belived yogurt made his warriors stronger.
 
 
+<br/>
 
-
-#### 🛸 Connect
+### Connect
 
 <a href="https://twitter.com/kennydoessomet1">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />

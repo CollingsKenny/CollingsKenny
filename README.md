@@ -7,10 +7,6 @@
 
 [📄 See my resume!](https://collingskenny.github.io/resume/)
 
-- 🎵 I’m currently working on a project using the spotify api.
-- 🔨 I’m currently learning static site generation.
-- 💹 I’m looking for help with graphql and typescript.
-- 🐎 Fun fact: Genghis Khan belived yogurt made his warriors stronger.
 
 
 <br/>

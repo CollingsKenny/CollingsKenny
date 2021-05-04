@@ -5,7 +5,7 @@
 <samp>I am a JavaScript and full-stack developer looking to start my career. I enjoy working with React, creating things, and mountain biking.</samp>
 </div>
 
-[📄 See my resume!](https://collingskenny.github.io/resume/)
+[📄 See my website!](https://kenc.dev/)
 
 
 
